@@ -1,0 +1,16 @@
+<html>
+<title>
+Practicing building an html page
+</title>
+<body>
+<h1>
+This is Where I will put my heading 1
+</h1>
+<h2>
+I would like a smaller subheading, so I will put that here in h2
+</h2>
+<p>
+This is where I will add a paragraph of information
+</p>
+</body>
+</html>
